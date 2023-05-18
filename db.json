@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" }
+    { "id": 1, "phone": "+353871234567" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
